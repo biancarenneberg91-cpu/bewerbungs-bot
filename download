@@ -1,0 +1,7 @@
+.env
+applications.json
+applications.json.tmp
+__pycache__/
+*.pyc
+.replit_state/
+venv/
